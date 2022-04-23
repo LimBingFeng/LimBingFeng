@@ -1,4 +1,5 @@
-- 👋 Hi, I’m  Bing Feng, undergraduate student of bachelor of science in Bioinformatics in University of Malaya
+👋 Hi, I’m  Bing Feng 
+- ✨ Undergraduate student of bachelor of science in Bioinformatics in University of Malaya
 - 🌱 I’m currently learning on data analysis and machine learning / deep learning
 - 📫 How to reach me: You can email me at bingfeng0407@gmail.com or search for my linkedin https://www.linkedin.com/in/bingfenglim 
 
